@@ -21,7 +21,7 @@ module.exports = {
         } else {
             var regex = RegExp(movie, 'i');
             return movieData.filter(function(e) {
-                return e.moviesName.match(regex);
+                return e.movieName.match(regex);
             });
         }
     }
