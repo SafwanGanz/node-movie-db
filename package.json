@@ -1,14 +1,14 @@
 {
-  "name": "movies-db",
+  "name": "node-movie-db",
   "version": "1.0.0",
-  "description": "Node module to easily lookup any movies db.",
+  "description": "Node module to easily lookup any movie db.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SafwanGanz/movies-db.git"
+    "url": "git+https://github.com/SafwanGanz/node-movie-db.git"
   },
   "keywords": [
     "movies"
@@ -16,7 +16,7 @@
   "author": "SafwanGanz <safwanganz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SafwanGanz/movies-db/issues"
+    "url": "https://github.com/SafwanGanz/node-movie-db/issues"
   },
-  "homepage": "https://github.com/SafwanGanz/movies-db#readme"
+  "homepage": "https://github.com/SafwanGanz/node-movie-db#readme"
 }
